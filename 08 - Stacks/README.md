@@ -6,3 +6,10 @@ You are welcome to consult with the PROG7312 bot as well as these resources:
 * https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.stack-1?view=net-8.0
 * https://davidboland.site/blog/how-to-implement-a-stack-in-c
 * https://www.geeksforgeeks.org/implementing-stack-c-sharp/
+
+# Extension Activity - Text Editor
+
+Build a simple text editor that allows a user to enter text.
+Each time they click on the undo button, it removes the last entered word.
+They also have the option of clicking redo, which restores the word that was last undone.
+Hint: you will need more than one stack instance.
