@@ -17,7 +17,7 @@ You need to use Queue data structures to simulate the scenarios provided below.
 ## Simulation Level 1 - No Counter Reallocation
 The goal of the simulation is to calculate the total time required to check in all passengers for each class and the whole flight. Counters are not reallocated when not in use.
 
-### Simulation Level 2 - Business Class Counter Reallocation 
+## Simulation Level 2 - Business Class Counter Reallocation 
 The goal of the simulation is to calculate the total time required to check in all passengers for each class and the whole flight. The difference here is that if there are no business class passengers waiting, the business class counters can be reallocated to serve economy class passengers.
 
 ## Questions to answer
